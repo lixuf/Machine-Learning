@@ -1,7 +1,7 @@
 # Machine-Learning
 ## 文件结构
 ### DecisionTreeClassifier
-决策树分类器
+决策树分类器-分类坐姿
 ### EntityExtract-EnsembleLearning
 命名实体提取任务---内含详细总结
 数据集：semeval 14/15
