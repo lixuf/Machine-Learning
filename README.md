@@ -17,7 +17,7 @@ bioasq-taskB-phaseA-段落提取
 ### absa-semeval14
 利用指针标注的方式提取命名实体
 ### dgcnn-from-JianLin-Su
-苏老师的DGCNN
+苏老师的DGCNN-学习
 ### knn-for-mnist
 利用KNN分类mnist
 ### multivariate-linear-regression
